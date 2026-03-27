@@ -142,6 +142,10 @@ export const posts = [
 
 
 
-[![博客首页预览](images/blog-home.png)](https://the-niceu.github.io/blog/)
+<p align="center">
+  <a href="https://the-niceu.github.io/blog/" target="_blank">
+    <img src="images/blog-home.png" alt="博客首页预览" width="900">
+  </a>
+</p>
 
 
