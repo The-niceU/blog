@@ -2,6 +2,12 @@
 
 一个基于 Vue3 + Vite 从零搭建的现代化个人博客，已部署于 GitHub Pages，适配多端、支持主题切换、内置完整的文章管理与评论系统。
 
+<p align="center">
+  <a href="https://the-niceu.github.io/blog/" target="_blank">
+    <img src="images/blog-home.png" alt="博客首页预览" width="600">
+  </a>
+</p>
+
 ## ✨ 项目特性
 - 🎨 **多主题与暗黑模式**：内置多套主题色，支持亮/暗黑模式一键切换，全局样式无缝适配
 - 📱 **全响应式设计**：完美适配桌面端、平板、手机端，针对移动端做了专属交互优化
@@ -142,10 +148,6 @@ export const posts = [
 
 
 
-<p align="center">
-  <a href="https://the-niceu.github.io/blog/" target="_blank">
-    <img src="images/blog-home.png" alt="博客首页预览" width="900">
-  </a>
-</p>
+
 
 
